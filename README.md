@@ -8,7 +8,7 @@ This file contains the metadata of all of the raw sequencing data used in this s
 Contains 95 total *E. coli* assemblies along a coverage increment using the IDBA (Peng et al., 2012) and SPAdes (Bankevich et al., 2012) assemblers
 
 #### Supplementary_graphs 
-All graphs and correlations are based on statistics from IDBA (Peng et al., 2012) assemblies
+All graphs and correlations are based on statistics from IDBA assemblies, rather than the in-text graphs based on SPAdes 
 
 #### pipeline.sh
 The script used to download, subset and assemble sequencing data, and analyze and annotate the assemblies
